@@ -1,0 +1,6 @@
+<Project>
+  <PropertyGroup>
+    <!-- Run through `dotnet Payroll.Api.dll` instead of a generated .exe, which some managed laptops block. -->
+    <UseAppHost>false</UseAppHost>
+  </PropertyGroup>
+</Project>

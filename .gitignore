@@ -1,0 +1,14 @@
+# Node
+node_modules/
+dist/
+
+# .NET
+bin/
+obj/
+TestResults/
+
+# SQLite database (recreated on API start)
+*.db
+*.db-shm
+*.db-wal
+*.tsbuildinfo

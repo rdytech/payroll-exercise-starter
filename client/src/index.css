@@ -1,0 +1,16 @@
+body {
+  font-family: system-ui, sans-serif;
+  font-size: 18px;
+  margin: 2rem;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border-bottom: 1px solid #ccc;
+  padding: 0.4rem 1rem;
+  text-align: left;
+}
